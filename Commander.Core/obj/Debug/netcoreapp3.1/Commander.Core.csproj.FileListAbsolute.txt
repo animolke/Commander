@@ -1,0 +1,9 @@
+C:\Users\animo\source\repos\Commander\Commander.Core\bin\Debug\netcoreapp3.1\Commander.Core.deps.json
+C:\Users\animo\source\repos\Commander\Commander.Core\bin\Debug\netcoreapp3.1\Commander.Core.dll
+C:\Users\animo\source\repos\Commander\Commander.Core\bin\Debug\netcoreapp3.1\Commander.Core.pdb
+C:\Users\animo\source\repos\Commander\Commander.Core\obj\Debug\netcoreapp3.1\Commander.Core.csprojAssemblyReference.cache
+C:\Users\animo\source\repos\Commander\Commander.Core\obj\Debug\netcoreapp3.1\Commander.Core.AssemblyInfoInputs.cache
+C:\Users\animo\source\repos\Commander\Commander.Core\obj\Debug\netcoreapp3.1\Commander.Core.AssemblyInfo.cs
+C:\Users\animo\source\repos\Commander\Commander.Core\obj\Debug\netcoreapp3.1\Commander.Core.csproj.CoreCompileInputs.cache
+C:\Users\animo\source\repos\Commander\Commander.Core\obj\Debug\netcoreapp3.1\Commander.Core.dll
+C:\Users\animo\source\repos\Commander\Commander.Core\obj\Debug\netcoreapp3.1\Commander.Core.pdb

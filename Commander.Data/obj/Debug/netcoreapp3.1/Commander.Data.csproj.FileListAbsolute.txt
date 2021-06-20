@@ -1,0 +1,15 @@
+C:\Users\animo\source\repos\Commander\Commander.Data\bin\Debug\netcoreapp3.1\Commander.Data.deps.json
+C:\Users\animo\source\repos\Commander\Commander.Data\bin\Debug\netcoreapp3.1\Commander.Data.runtimeconfig.json
+C:\Users\animo\source\repos\Commander\Commander.Data\bin\Debug\netcoreapp3.1\Commander.Data.runtimeconfig.dev.json
+C:\Users\animo\source\repos\Commander\Commander.Data\bin\Debug\netcoreapp3.1\Commander.Data.dll
+C:\Users\animo\source\repos\Commander\Commander.Data\bin\Debug\netcoreapp3.1\Commander.Data.pdb
+C:\Users\animo\source\repos\Commander\Commander.Data\bin\Debug\netcoreapp3.1\Commander.Core.dll
+C:\Users\animo\source\repos\Commander\Commander.Data\bin\Debug\netcoreapp3.1\Commander.Core.pdb
+C:\Users\animo\source\repos\Commander\Commander.Data\obj\Debug\netcoreapp3.1\Commander.Data.csprojAssemblyReference.cache
+C:\Users\animo\source\repos\Commander\Commander.Data\obj\Debug\netcoreapp3.1\Commander.Data.AssemblyInfoInputs.cache
+C:\Users\animo\source\repos\Commander\Commander.Data\obj\Debug\netcoreapp3.1\Commander.Data.AssemblyInfo.cs
+C:\Users\animo\source\repos\Commander\Commander.Data\obj\Debug\netcoreapp3.1\Commander.Data.csproj.CoreCompileInputs.cache
+C:\Users\animo\source\repos\Commander\Commander.Data\obj\Debug\netcoreapp3.1\Commander.Data.csproj.CopyComplete
+C:\Users\animo\source\repos\Commander\Commander.Data\obj\Debug\netcoreapp3.1\Commander.Data.dll
+C:\Users\animo\source\repos\Commander\Commander.Data\obj\Debug\netcoreapp3.1\Commander.Data.pdb
+C:\Users\animo\source\repos\Commander\Commander.Data\obj\Debug\netcoreapp3.1\Commander.Data.genruntimeconfig.cache
